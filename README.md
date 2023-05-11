@@ -36,7 +36,7 @@
   </li>
   
    <li>
-  <img align="center" alt="edu-devpr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="edu-devpr-React" height="30" width="40" src="https://github.com/edu-devpr/edu-devpr/assets/133012514/22206cec-503e-4bd2-85a3-ff7f9793a664">
   : GIT
   </li>
 </div>
